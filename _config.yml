@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://chipio.photo"
+baseurl: ""
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -13,7 +13,7 @@ header:
  subtitle: "by chipiofur"
 footer:
  name: "Hey there, my name is Chip."
- bio: "I travel to a bunch of conventions and take photos around the con space. Enjoy!"
+ bio: "I travel to a bunch of conventions and take photos of my friends around the con space. Enjoy!"
  furtrack: "You can see the rest of my photo catalog on <a href='https://www.furtrack.com/index/photographer:chipiofur'>Furtrack</a>."
 web_design: "AJ"
 # Configure which exif data to display
